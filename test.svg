@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.678165mm"
+   height="30.300001mm"
+   viewBox="0 0 53.678165 30.300001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="test.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path836"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path839"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path841"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path843"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="125.87814"
+     inkscape:cy="-56.595892"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g976"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
+     inkscape:window-x="1680"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.7217811e-7,-266.7)">
+    <g
+       id="g1077"
+       transform="matrix(0.26458333,0,0,0.26458333,183.46523,67.435475)">
+      <g
+         id="g850"
+         inkscape:label="0" />
+      <g
+         id="g852"
+         inkscape:label="SECTION_CUTTING_LINE" />
+      <g
+         id="g854"
+         inkscape:label="DETAIL_VIEW_BORDER" />
+      <g
+         id="g856"
+         inkscape:label="DETAIL_VIEW_PARENT_BORDER" />
+      <g
+         id="g858"
+         inkscape:label="TEXT" />
+      <g
+         id="g860"
+         inkscape:label="SKETCHED_GEOMETRY" />
+      <g
+         id="g862"
+         inkscape:label="CENTERLINES" />
+      <g
+         id="g864"
+         inkscape:label="CENTERMARKS" />
+      <g
+         id="g866"
+         inkscape:label="TABLES" />
+      <g
+         id="g868"
+         inkscape:label="IMAGES" />
+      <g
+         id="g870"
+         inkscape:label="ANNOTATION_LINES" />
+      <g
+         id="g872"
+         inkscape:label="ANNOTATION_TEXT" />
+      <g
+         id="g874"
+         inkscape:label="SIDE_THREAD_SYMBOLS" />
+      <g
+         id="g876"
+         inkscape:label="SIDE_THREAD_SYMBOLS_HIDDEN" />
+      <g
+         id="g878"
+         inkscape:label="SURFACE_THREAD_SYMBOLS" />
+      <g
+         id="g880"
+         inkscape:label="SURFACE_THREAD_SYMBOLS_ON_" />
+      <g
+         id="g882"
+         inkscape:label="SURFACE_THREAD_SYMBOLS_HID" />
+      <g
+         id="g884"
+         inkscape:label="BLIND_THREAD_SYMBOLS" />
+      <g
+         id="g886"
+         inkscape:label="BLIND_THREAD_SYMBOLS_HIDDE" />
+      <g
+         id="g888"
+         inkscape:label="EXPLODE_LINES" />
+      <g
+         id="g890"
+         inkscape:label="BREAK_LINES" />
+      <g
+         id="g892"
+         inkscape:label="SHEETMETAL_BEND_LINES_UP" />
+      <g
+         id="g894"
+         inkscape:label="SHEETMETAL_BEND_LINES_DOWN" />
+      <g
+         id="g896"
+         inkscape:label="SHEETMETAL_BEND_TANGENT_LI" />
+      <g
+         id="g898"
+         inkscape:label="SHEETMETAL_CUT_LINES" />
+      <g
+         id="g900"
+         inkscape:label="HIDDEN" />
+      <g
+         id="g976"
+         inkscape:label="VISIBLE">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -673.94733,772.59033 h 75.59056 v 75.59056 h -75.59056 z"
+           id="rect1106" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -491.10072,807.71228 a 37.795277,37.795277 0 0 1 -37.79528,37.79528 37.795277,37.795277 0 0 1 -37.79527,-37.79528 37.795277,37.795277 0 0 1 37.79527,-37.79528 37.795277,37.795277 0 0 1 37.79528,37.79528 z"
+           id="path1108" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#006633;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -692.84497,753.69269 h 113.38583 v 113.38583 h -113.38583 z"
+           id="rect1110" />
+      </g>
+      <g
+         id="g978"
+         inkscape:label="MODELSKETCH_VISIBLE" />
+      <g
+         id="g980"
+         inkscape:label="MODELSKETCH_CONSTRUCTION" />
+      <g
+         id="g982"
+         inkscape:label="TANGENT_LINES" />
+      <g
+         id="g984"
+         inkscape:label="TANGENT_HIDDEN" />
+      <g
+         id="g986"
+         inkscape:label="INVISIBLE_LINES" />
+      <g
+         id="g988"
+         inkscape:label="VIEW_HATCHES" />
+      <g
+         id="g990"
+         inkscape:label="SECTION_JOG_LINES" />
+    </g>
+  </g>
+</svg>
